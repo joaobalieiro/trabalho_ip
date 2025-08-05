@@ -1,1 +1,1 @@
-# trabalho_ip
+# jogo_Othello
